@@ -1,6 +1,6 @@
 # At-Night
 *VIS 143 VR final project presented by Jinyu Li, Meihui Liu, and Yuming Ma.* \
-*Open in Unity Hub with Editor Version 2022.3.13f1*
+*Open in Unity Hub with Editor Version 2022.3.13f1* \
 *Intended for Meta Quest 2*
 
 ## Project Purpose
