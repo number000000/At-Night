@@ -1,6 +1,7 @@
 # At-Night
 *VIS 143 VR final project presented by Jinyu Li, Meihui Liu, and Yuming Ma.* \
 *Open in Unity Hub with Editor Version 2022.3.13f1*
+*Intended for Meta Quest 2*
 
 ## Project Purpose
 Our project is called **At Night**. The idea of this project originated from restless nights that people face because of anxiety. People sometimes feel overwhelmed by life because of their unpredictable future and unfinished tasks due to procrastination. This stressful feeling is significantly obvious at night, as all of these unfinished things would be stuck in their head, making them feel intimidated from starting a new day. Some people choose to relieve their anxiety by spending more time on phones and games, or even by using medication. However, these distractions can only temporarily relieve stress. Only by taking actions, such as making a plan for themselves, can encourage them to be productive, thus reducing stress from its root. 
